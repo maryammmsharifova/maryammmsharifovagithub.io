@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>maryam's: Blog</title>
+    
+    <style>
+    body{color:blue;
+        
+        background-color :yellow;}
+        
+        
+        font-weight:bold;}
+        li{color:violet;
+            font-family:serif;}
+            
+            h1{color:orange;
+            font-weight:bold;
+                font-size:27px;
+            }
+                
+           h3{color:purple;
+           font-style:italic;}
+            
+            h2{color:rgb(189, 96, 189);
+            font-size:20px;}
+            
+            #maryam{color:rgb(245, 14, 176);}
+            
+            #why{color:rgb(247, 19, 167);}
+            
+            
+            
+    </style>
+        
+       <a href="#maryam"> start with something</a>
+        <a href="#content"> content</a>
+        
+    </head>
+    <body>
+        
+        <h1>Mariam's blog</h1>
+
+        <h3><p id="content">Contents</p></h3>
+        <ul>
+            <li>First post!</li>
+            <li>First energy!</li>
+            <li>First vibes</li>
+           
+        </ul>
+        
+        <h2>Welcome to my blog! Here you can find everything about daily life!</h2>
+        <h1> <p id="maryam">i'm maryam and i decided to open a new web page because its interesting </p> </h1>
+        
+        <p> I'm so happy for opening this page.<img src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/cute/CharacterCatGirl.png">
+            
+        </p>
+        
+        <img src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/creatures/Hopper-Jumping.png">
+        
+       <h2> <a href="https://www.khanacademy.org/computer-programming/html-the-image-tag/4800922048004096">go to somewhere
+            
+        </a></h2>
+        
+       <h2> <p>also my hobbies are,reading books,travelling world,seeing new places e.g.</p></h2>
+        
+        
+        
+        
+        
+        
+        
+        
+    </body>
+</html>
